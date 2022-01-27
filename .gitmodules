@@ -1,3 +1,6 @@
 [submodule "kitty"]
 	path = kitty
 	url = https://github.com/BrunoBMoura/kitty
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/BrunoBMoura/nvim
