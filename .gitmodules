@@ -7,3 +7,6 @@
 [submodule "rofi"]
 	path = rofi
 	url = https://github.com/BrunoBMoura/rofi
+[submodule "sxhkd"]
+	path = sxhkd
+	url = https://github.com/BrunoBMoura/sxhkd.git
