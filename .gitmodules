@@ -13,3 +13,6 @@
 [submodule "bspwm"]
 	path = bspwm
 	url = https://github.com/BrunoBMoura/bspwm.git
+[submodule "polybar"]
+	path = polybar
+	url = https://github.com/BrunoBMoura/polybar.git
