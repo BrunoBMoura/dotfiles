@@ -10,3 +10,6 @@
 [submodule "sxhkd"]
 	path = sxhkd
 	url = https://github.com/BrunoBMoura/sxhkd.git
+[submodule "bspwm"]
+	path = bspwm
+	url = https://github.com/BrunoBMoura/bspwm.git
